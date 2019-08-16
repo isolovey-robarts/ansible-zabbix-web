@@ -24,6 +24,3 @@ galaxy_info:
   galaxy_tags:
     - monitoring
     - zabbix
-
-dependencies:
-  - {name: geerlingguy.apache, src: geerlingguy.apache, tags: apache}
